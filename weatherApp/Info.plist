@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+            
+        <!-- Custom Strings Dictionary -->
+        <key>CustomStrings</key>
+        <dict>
+            <key>EnterCityPlaceholder</key>
+            <string>Enter city name</string>
+            <key>GetWeatherButton</key>
+            <string>Get Weather</string>
+            <key>LoadingMessage</key>
+            <string>Loading...</string>
+            <key>NavigationTitle</key>
+            <string>Weather App</string>
+            <key>LocationLabel</key>
+            <string>Location: </string>
+            <key>TemperatureLabel</key>
+            <string>Temperature: </string>
+            <key>DescriptionLabel</key>
+            <string>Description: </string>
+        </dict>
+    </dict>
+</plist>
